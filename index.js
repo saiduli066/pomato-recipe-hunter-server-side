@@ -9,7 +9,7 @@ const chefs = require('./data.json')
 app.use(cors());
 
 app.get('/', (req,res) => {
-    res.send('Recipe hunter is running')
+    res.send('Recipe Hunter is running')
 })
 
 app.get('/chefs', (req, res) => {
@@ -17,5 +17,5 @@ app.get('/chefs', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`Recipe hunter running is running in port: ${port}`);
+    console.log(`Recipe hunter running is running on port: ${port}`);
 })
