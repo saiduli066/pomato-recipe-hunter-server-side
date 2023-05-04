@@ -1,13 +1,12 @@
 [
   {
     "id": 1,
-    "chef picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Curtis_Stone.jpg/1200px-Curtis_Stone.jpg",
+    "chef picture": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-04/Curtis_Stone_Photographer_Ray_Kachatorian.jpg",
     "chef name": "Curtis Stone",
-    "bio/description": "Curtis Stone is an Australian celebrity chef, author and television personality. He is known for his simple and fresh approach to cooking, using seasonal and local ingredients. He has hosted several cooking shows, such as Surfing the Menu, Take Home Chef and Top Chef Masters.",
+    "bio": "Curtis Stone is an Australian celebrity chef, author and television personality. He is known for his simple and fresh approach to cooking, using seasonal and local ingredients. He has hosted several cooking shows, such as Surfing the Menu, Take Home Chef and Top Chef Masters.",
     "likes": 3456,
     "recipes": [
       {
-        "id": 1,
         "recipe name": "Roasted Chicken with Lemon and Thyme",
         "image url": "https://www.foodandwine.com/thmb/XUxrTTH2bci90wEAcB2J57RCvpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/201408-xl-lemon-thyme-roast-chicken-d5684a3c900d4044b406659363990f40.jpg",
         "ingredients": [
@@ -22,40 +21,27 @@
         "rating": 4.5
       },
       {
-        "id": 2,
         "recipe name": "Spaghetti Bolognese",
         "image url": "https://bit.ly/3e5Kt0v",
         "ingredients": [
           "400g spaghetti",
           "500g beef mince",
-          "1 onion",
           "2 cloves garlic",
           "400g can chopped tomatoes",
-          "2 tbsp tomato paste",
-          "1 tsp dried oregano",
-          "1 tsp dried basil",
-          "1 bay leaf",
-          "salt and pepper",
           "grated parmesan cheese"
         ],
         "cooking method": "Cook spaghetti in a large pot of salted boiling water until al dente. Meanwhile, heat oil in a large frying pan over medium-high heat. Add onion and garlic and cook until softened. Add beef mince and cook until browned. Add chopped tomatoes, tomato paste, oregano, basil, bay leaf, salt, and pepper. Simmer for 15-20 minutes, stirring occasionally. Drain spaghetti and add to the pan with the sauce. Toss to combine. Serve with grated parmesan cheese.",
         "rating": 4.8
       },
       {
-        "id": 3,
         "recipe name": "Thai Green Curry",
         "image url": "https://www.thespruceeats.com/thmb/lRkFd-tG5HDOJQtwQHXM__6GjDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thai-green-curry-recipe-p3-3217442-hero-1-a3fcdfbc551849718c7750fa63ec8c6a.jpg",
         "ingredients": [
           "500g chicken breast",
           "1 can coconut milk",
           "1 tbsp green curry paste",
-          "1 red pepper",
-          "1 green pepper",
-          "1 onion",
           "1 tbsp fish sauce",
           "1 tbsp brown sugar",
-          "1 tbsp vegetable oil",
-          "salt and pepper",
           "basmati rice"
         ],
         "cooking method": "Cook basmati rice according to package instructions. Meanwhile, heat oil in a large frying pan or wok over medium-high heat. Add chicken and cook until browned. Add green curry paste and stir until fragrant. Add coconut milk, fish sauce, and brown sugar. Bring to a simmer and add sliced red and green peppers and onion. Cook for 10-15 minutes or until the vegetables are tender and the sauce has thickened. Season with salt and pepper. Serve with basmati rice.",
@@ -66,72 +52,51 @@
   },
   {
     "id": 2,
-    "chef picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Maggie_Beer.jpg/1200px-Maggie_Beer.jpg",
+    "chef picture": "https://static2.stuff.co.nz/1375766531/851/9008851.jpg",
     "chef name": "Maggie Beer",
-    "bio/description": "Maggie Beer is an Australian cook, food author, restaurateur and food manufacturer. She is known for her farm-to-table philosophy and her advocacy for Australian produce. She has written several cookbooks and hosted cooking shows, such as The Cook and the Chef and The Great Australian Bake Off.",
+    "bio": "Maggie Beer is an Australian cook, food author, restaurateur and food manufacturer. She is known for her farm-to-table philosophy and her advocacy for Australian produce. She has written several cookbooks and hosted cooking shows, such as The Cook and the Chef and The Great Australian Bake Off.",
     "likes": 2789,
     "recipes": [
       {
-        "id": 4,
         "recipe name": "Beef Stroganoff",
         "image url": "https://img.taste.com.au/zCeAeByH/w1200-h630-cfill/taste/2016/11/beef-stroganoff-45838-1.jpeg",
         "ingredients": [
           "500g beef sirloin",
-          "1 onion",
-          "2 cloves garlic",
           "200g sliced mushrooms",
           "1 cup beef stock",
-          "1 cup sour cream",
           "2 tbsp dijon mustard",
           "2 tbsp olive oil",
-          "salt and pepper",
           "egg noodles"
         ],
         "cooking method": "Cook egg noodles in a large pot of salted boiling water until al dente. Meanwhile, slice beef sirloin into thin strips. Heat oil in a large frying pan or wok over medium-high heat. Add beef and cook until browned. Remove beef from the pan and set aside. Add onion and garlic to the pan and cook until softened. Add sliced mushrooms and cook until tender. Add beef stock, sour cream, and dijon mustard. Stir to combine and bring to a simmer. Add the beef back to the pan and cook until heated through. Season with salt and pepper. Serve with egg noodles.",
         "rating": 4.3
       },
       {
-        "id": 5,
         "recipe name": "Spicy Shrimp Tacos",
         "image url": "https://bit.ly/3tnadHP",
         "ingredients": [
           "1 lb large shrimp, peeled and deveined",
           "1/4 cup olive oil",
-          "1 tbsp chili powder",
-          "1 tsp smoked paprika",
-          "1/2 tsp cumin",
-          "1/2 tsp garlic powder",
-          "1/2 tsp salt",
-          "1/4 tsp cayenne pepper",
           "8 small corn tortillas",
           "1 cup shredded cabbage",
-          "1/2 cup diced tomatoes",
-          "1/2 cup diced red onion",
           "1/2 cup chopped fresh cilantro",
           "1 lime, cut into wedges"
         ],
-        "cooking method": "1. Preheat grill to high heat.\n2. In a large bowl, whisk together olive oil, chili powder, smoked paprika, cumin, garlic powder, salt, and cayenne pepper. Add shrimp and toss to coat.\n3. Grill shrimp for 2-3 minutes per side, or until pink and cooked through.\n4. Warm tortillas on grill.\n5. To assemble tacos, place a few shrimp on each tortilla. Top with shredded cabbage, diced tomatoes, red onion, and cilantro. Serve with lime wedges.",
+        "cooking method": "1. Preheat grill to high heat. 2. In a large bowl, whisk together olive oil, chili powder, smoked paprika, cumin, garlic powder, salt, and cayenne pepper. Add shrimp and toss to coat. 3. Grill shrimp for 2-3 minutes per side, or until pink and cooked through. 4. Warm tortillas on grill. 5. To assemble tacos, place a few shrimp on each tortilla. Top with shredded cabbage, diced tomatoes, red onion, and cilantro. Serve with lime wedges.",
         "rating": 4.8
       },
       {
-        "id": 6,
         "recipe name": "Beef Stroganoff",
         "image url": "https://img.taste.com.au/zCeAeByH/w1200-h630-cfill/taste/2016/11/beef-stroganoff-45838-1.jpeg",
         "ingredients": [
           "1 lb beef sirloin, sliced into thin strips",
           "1 tbsp olive oil",
-          "1 onion, chopped",
-          "2 cloves garlic, minced",
           "8 oz mushrooms, sliced",
           "2 tbsp butter",
-          "2 tbsp flour",
           "1 cup beef broth",
-          "1/2 cup sour cream",
-          "1/4 cup chopped fresh parsley",
-          "Salt and pepper to taste",
           "8 oz egg noodles"
         ],
-        "cooking method": "1. Cook egg noodles according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add beef and cook until browned on all sides. Remove from skillet and set aside.\n3. Add onion, garlic, and mushrooms to skillet and cook until softened.\n4. Add butter to skillet and stir until melted. Sprinkle flour over vegetables and stir to combine.\n5. Gradually whisk in beef broth and bring to a simmer. Cook until thickened, stirring constantly.\n6. Stir in sour cream and parsley. Season with salt and pepper.\n7. Add beef back to skillet and stir to coat with sauce.\n8. Serve beef stroganoff over egg noodles.",
+        "cooking method": "1. Cook egg noodles according to package instructions. 2. In a large skillet, heat olive oil over medium-high heat. Add beef and cook until browned on all sides. Remove from skillet and set aside. 3. Add onion, garlic, and mushrooms to skillet and cook until softened. 4. Add butter to skillet and stir until melted. Sprinkle flour over vegetables and stir to combine. 5. Gradually whisk in beef broth and bring to a simmer. Cook until thickened, stirring constantly. 6. Stir in sour cream and parsley. Season with salt and pepper. 7. Add beef back to skillet and stir to coat with sauce. 8. Serve beef stroganoff over egg noodles.",
         "rating": 4.6
       }
     ],
@@ -139,13 +104,12 @@
   },
   {
     "id": 3,
-    "chef picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bill_Griggson.jpg/1200px-Bill_Griggson.jpg",
-    "chef name": "Bill Griggson",
-    "bio/description": "Bill Griggson is an Australian chef, restaurateur and food writer. He is known for his fusion of Asian and Australian cuisines, using fresh and exotic ingredients. He has opened several successful restaurants, such as Billy Kwong, Spice Temple and Rockpool Bar & Grill.",
+    "chef picture": "https://www.yassvalleytimes.com.au/wp-content/uploads/2023/01/David-Bitton.jpg",
+    "chef name": "DAVID BITTON",
+    "bio": "DAVID BITTON is an Australian chef, restaurateur and food writer. He is known for his fusion of Asian and Australian cuisines, using fresh and exotic ingredients. He has opened several successful restaurants, such as Billy Kwong, Spice Temple and Rockpool Bar & Grill.",
     "likes": 3123,
     "recipes": [
       {
-        "id": 1,
         "recipe name": "Roasted Chicken with Lemon and Thyme",
         "image url": "https://www.foodandwine.com/thmb/XUxrTTH2bci90wEAcB2J57RCvpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/201408-xl-lemon-thyme-roast-chicken-d5684a3c900d4044b406659363990f40.jpg",
         "ingredients": [
@@ -160,17 +124,11 @@
         "rating": 4.5
       },
       {
-        "id": 2,
         "recipe name": "Spaghetti Bolognese",
         "image url": "https://media.istockphoto.com/id/585769692/photo/delicious-spaghetti-served-on-a-black-plate.jpg?s=612x612&w=0&k=20&c=e3amYy8LTlFwJj_DpSHyRtQmvyeaH2WNMlzD7fg-jmM=",
         "ingredients": [
           "400g spaghetti",
           "500g beef mince",
-          "1 onion",
-          "2 cloves garlic",
-          "400g can chopped tomatoes",
-          "2 tbsp tomato paste",
-          "1 tsp dried oregano",
           "1 tsp dried basil",
           "1 bay leaf",
           "salt and pepper",
@@ -180,7 +138,6 @@
         "rating": 4.8
       },
       {
-        "id": 3,
         "recipe name": "Thai Green Curry",
         "image url": "https://www.thespruceeats.com/thmb/lRkFd-tG5HDOJQtwQHXM__6GjDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thai-green-curry-recipe-p3-3217442-hero-1-a3fcdfbc551849718c7750fa63ec8c6a.jpg",
         "ingredients": [
@@ -189,10 +146,6 @@
           "1 tbsp green curry paste",
           "1 red pepper",
           "1 green pepper",
-          "1 onion",
-          "1 tbsp fish sauce",
-          "1 tbsp brown sugar",
-          "1 tbsp vegetable oil",
           "salt and pepper",
           "basmati rice"
         ],
@@ -204,72 +157,51 @@
   },
   {
     "id": 4,
-    "chef picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Donna_Hay.jpg/1200px-Donna_Hay.jpg",
+    "chef picture": "https://www.girl.com.au/img/bigarticles/donnahay.jpg",
     "chef name": "Donna Hay",
-    "bio/description": "Donna Hay is an Australian food stylist, author and magazine editor. She is known for her simple and elegant style of cooking and presenting food. She has published several bestselling cookbooks and launched her own magazine, Donna Hay Magazine, in 2001.",
+    "bio": "Donna Hay is an Australian food stylist, author and magazine editor. She is known for her simple and elegant style of cooking and presenting food. She has published several bestselling cookbooks and launched her own magazine, Donna Hay Magazine, in 2001.",
     "likes": 2890,
     "recipes": [
       {
-        "id": 4,
         "recipe name": "Beef Stroganoff",
         "image url": "https://img.taste.com.au/zCeAeByH/w1200-h630-cfill/taste/2016/11/beef-stroganoff-45838-1.jpeg",
         "ingredients": [
           "500g beef sirloin",
-          "1 onion",
           "2 cloves garlic",
           "200g sliced mushrooms",
           "1 cup beef stock",
           "1 cup sour cream",
-          "2 tbsp dijon mustard",
-          "2 tbsp olive oil",
-          "salt and pepper",
           "egg noodles"
         ],
         "cooking method": "Cook egg noodles in a large pot of salted boiling water until al dente. Meanwhile, slice beef sirloin into thin strips. Heat oil in a large frying pan or wok over medium-high heat. Add beef and cook until browned. Remove beef from the pan and set aside. Add onion and garlic to the pan and cook until softened. Add sliced mushrooms and cook until tender. Add beef stock, sour cream, and dijon mustard. Stir to combine and bring to a simmer. Add the beef back to the pan and cook until heated through. Season with salt and pepper. Serve with egg noodles.",
         "rating": 4.3
       },
       {
-        "id": 5,
         "recipe name": "Spicy Shrimp Tacos",
         "image url": "https://knowseafood.com/cdn/shop/articles/118A2159-1024x683.jpg?v=1617802227",
         "ingredients": [
           "1 lb large shrimp, peeled and deveined",
           "1/4 cup olive oil",
-          "1 tbsp chili powder",
-          "1 tsp smoked paprika",
-          "1/2 tsp cumin",
-          "1/2 tsp garlic powder",
-          "1/2 tsp salt",
-          "1/4 tsp cayenne pepper",
-          "8 small corn tortillas",
           "1 cup shredded cabbage",
           "1/2 cup diced tomatoes",
-          "1/2 cup diced red onion",
-          "1/2 cup chopped fresh cilantro",
+          "1/2 cup chopped",
           "1 lime, cut into wedges"
         ],
-        "cooking method": "1. Preheat grill to high heat.\n2. In a large bowl, whisk together olive oil, chili powder, smoked paprika, cumin, garlic powder, salt, and cayenne pepper. Add shrimp and toss to coat.\n3. Grill shrimp for 2-3 minutes per side, or until pink and cooked through.\n4. Warm tortillas on grill.\n5. To assemble tacos, place a few shrimp on each tortilla. Top with shredded cabbage, diced tomatoes, red onion, and cilantro. Serve with lime wedges.",
+        "cooking method": "1. Preheat grill to high heat. 2. In a large bowl, whisk together olive oil, chili powder, smoked paprika, cumin, garlic powder, salt, and cayenne pepper. Add shrimp and toss to coat. 3. Grill shrimp for 2-3 minutes per side, or until pink and cooked through. 4. Warm tortillas on grill. 5. To assemble tacos, place a few shrimp on each tortilla. Top with shredded cabbage, diced tomatoes, red onion, and cilantro. Serve with lime wedges.",
         "rating": 4.8
       },
       {
-        "id": 6,
         "recipe name": "Beef Stroganoff",
         "image url": "https://img.taste.com.au/zCeAeByH/w1200-h630-cfill/taste/2016/11/beef-stroganoff-45838-1.jpeg",
         "ingredients": [
-          "1 lb beef sirloin, sliced into thin strips",
-          "1 tbsp olive oil",
+          "1 lb beef sirloin",
           "1 onion, chopped",
-          "2 cloves garlic, minced",
           "8 oz mushrooms, sliced",
           "2 tbsp butter",
-          "2 tbsp flour",
           "1 cup beef broth",
-          "1/2 cup sour cream",
-          "1/4 cup chopped fresh parsley",
-          "Salt and pepper to taste",
           "8 oz egg noodles"
         ],
-        "cooking method": "1. Cook egg noodles according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add beef and cook until browned on all sides. Remove from skillet and set aside.\n3. Add onion, garlic, and mushrooms to skillet and cook until softened.\n4. Add butter to skillet and stir until melted. Sprinkle flour over vegetables and stir to combine.\n5. Gradually whisk in beef broth and bring to a simmer. Cook until thickened, stirring constantly.\n6. Stir in sour cream and parsley. Season with salt and pepper.\n7. Add beef back to skillet and stir to coat with sauce.\n8. Serve beef stroganoff over egg noodles.",
+        "cooking method": "1. Cook egg noodles according to package instructions. 2. In a large skillet, heat olive oil over medium-high heat. Add beef and cook until browned on all sides. Remove from skillet and set aside. 3. Add onion, garlic, and mushrooms to skillet and cook until softened. 4. Add butter to skillet and stir until melted. Sprinkle flour over vegetables and stir to combine. 5. Gradually whisk in beef broth and bring to a simmer. Cook until thickened, stirring constantly. 6. Stir in sour cream and parsley. Season with salt and pepper. 7. Add beef back to skillet and stir to coat with sauce. 8. Serve beef stroganoff over egg noodles.",
         "rating": 4.6
       }
     ],
@@ -277,23 +209,17 @@
   },
   {
     "id": 5,
-    "chef picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adriano_Zumbo.jpg/1200px-Adriano_Zumbo.jpg",
+    "chef picture":"https://qph.cf2.quoracdn.net/main-qimg-2c9c4d5c8b7b0ee6c782924fdd695ca4-lq",
     "chef name": "Adriano Zumbo",
-    "bio/description": "Adriano Zumbo is an Australian pastry chef and television personality. He is known for his creative and whimsical desserts, such as macarons, croquembouches and cakes. He has appeared as a guest judge on several cooking shows, such as MasterChef Australia, Zumbo's Just Desserts and Sugar Rush.",
+    "bio": "Adriano Zumbo is an Australian pastry chef and television personality. He is known for his creative and whimsical desserts, such as macarons, croquembouches and cakes. He has appeared as a guest judge on several cooking shows, such as MasterChef Australia, Zumbo's Just Desserts and Sugar Rush.",
     "likes": 3212,
     "recipes": [
       {
-        "id": 4,
         "recipe name": "Beef Stroganoff",
         "image url": "https://img.taste.com.au/zCeAeByH/w1200-h630-cfill/taste/2016/11/beef-stroganoff-45838-1.jpeg",
         "ingredients": [
           "500g beef sirloin",
-          "1 onion",
-          "2 cloves garlic",
           "200g sliced mushrooms",
-          "1 cup beef stock",
-          "1 cup sour cream",
-          "2 tbsp dijon mustard",
           "2 tbsp olive oil",
           "salt and pepper",
           "egg noodles"
@@ -302,47 +228,29 @@
         "rating": 4.3
       },
       {
-        "id": 5,
         "recipe name": "Spicy Shrimp Tacos",
         "image url": "https://knowseafood.com/cdn/shop/articles/118A2159-1024x683.jpg?v=1617802227",
         "ingredients": [
           "1 lb large shrimp, peeled and deveined",
           "1/4 cup olive oil",
           "1 tbsp chili powder",
-          "1 tsp smoked paprika",
           "1/2 tsp cumin",
-          "1/2 tsp garlic powder",
-          "1/2 tsp salt",
-          "1/4 tsp cayenne pepper",
-          "8 small corn tortillas",
-          "1 cup shredded cabbage",
-          "1/2 cup diced tomatoes",
-          "1/2 cup diced red onion",
-          "1/2 cup chopped fresh cilantro",
           "1 lime, cut into wedges"
         ],
-        "cooking method": "1. Preheat grill to high heat.\n2. In a large bowl, whisk together olive oil, chili powder, smoked paprika, cumin, garlic powder, salt, and cayenne pepper. Add shrimp and toss to coat.\n3. Grill shrimp for 2-3 minutes per side, or until pink and cooked through.\n4. Warm tortillas on grill.\n5. To assemble tacos, place a few shrimp on each tortilla. Top with shredded cabbage, diced tomatoes, red onion, and cilantro. Serve with lime wedges.",
+        "cooking method": "1. Preheat grill to high heat. 2. In a large bowl, whisk together olive oil, chili powder, smoked paprika, cumin, garlic powder, salt, and cayenne pepper. Add shrimp and toss to coat. 3. Grill shrimp for 2-3 minutes per side, or until pink and cooked through. 4. Warm tortillas on grill. 5. To assemble tacos, place a few shrimp on each tortilla. Top with shredded cabbage, diced tomatoes, red onion, and cilantro. Serve with lime wedges.",
         "rating": 4.8
       },
       {
-        "id": 6,
         "recipe name": "Beef Stroganoff",
         "image url": "https://img.taste.com.au/zCeAeByH/w1200-h630-cfill/taste/2016/11/beef-stroganoff-45838-1.jpeg",
         "ingredients": [
-          "1 lb beef sirloin, sliced into thin strips",
+          "1 lb beef sirloin",
           "1 tbsp olive oil",
           "1 onion, chopped",
-          "2 cloves garlic, minced",
-          "8 oz mushrooms, sliced",
-          "2 tbsp butter",
-          "2 tbsp flour",
-          "1 cup beef broth",
           "1/2 cup sour cream",
-          "1/4 cup chopped fresh parsley",
-          "Salt and pepper to taste",
           "8 oz egg noodles"
         ],
-        "cooking method": "1. Cook egg noodles according to package instructions.\n2. In a large skillet, heat olive oil over medium-high heat. Add beef and cook until browned on all sides. Remove from skillet and set aside.\n3. Add onion, garlic, and mushrooms to skillet and cook until softened.\n4. Add butter to skillet and stir until melted. Sprinkle flour over vegetables and stir to combine.\n5. Gradually whisk in beef broth and bring to a simmer. Cook until thickened, stirring constantly.\n6. Stir in sour cream and parsley. Season with salt and pepper.\n7. Add beef back to skillet and stir to coat with sauce.\n8. Serve beef stroganoff over egg noodles.",
+        "cooking method": "1. Cook egg noodles according to package instructions. 2. In a large skillet, heat olive oil over medium-high heat. Add beef and cook until browned on all sides. Remove from skillet and set aside. 3. Add onion, garlic, and mushrooms to skillet and cook until softened. 4. Add butter to skillet and stir until melted. Sprinkle flour over vegetables and stir to combine. 5. Gradually whisk in beef broth and bring to a simmer. Cook until thickened, stirring constantly. 6. Stir in sour cream and parsley. Season with salt and pepper. 7. Add beef back to skillet and stir to coat with sauce. 8. Serve beef stroganoff over egg noodles.",
         "rating": 4.6
       }
     ],
@@ -350,20 +258,18 @@
   },
   {
     "id": 6,
-    "chef picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kylie_Kwong.jpg/1200px-Kylie_Kwong.jpg",
+    "chef picture": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.2932%2C$ratio_1.777778%2C$width_1992%2C$x_8%2C$y_116/t_crop_custom/q_86%2Cf_auto/62defea8be7be231eaa7788426b746fa4217435c",
     "chef name": "Kylie Kwong",
-    "bio/description": "Kylie Kwong is an Australian chef, author and television presenter. She is known for her modern interpretation of Chinese cuisine, using organic and sustainable ingredients. She has written several cookbooks and hosted cooking shows, such as Kylie Kwong: Cooking with Heart and Soul, Kylie Kwong: My China and Kylie Kwong: Simply Magic.",
+    "bio": "Kylie Kwong is an Australian chef, author and television presenter. She is known for her modern interpretation of Chinese cuisine, using organic and sustainable ingredients. She has written several cookbooks and hosted cooking shows, such as Kylie Kwong: Cooking with Heart and Soul, Kylie Kwong: My China and Kylie Kwong: Simply Magic.",
     "likes": 2987,
     "recipes": [
       {
-        "id": 1,
         "recipe name": "Roasted Chicken with Lemon and Thyme",
         "image url": "https://www.foodandwine.com/thmb/XUxrTTH2bci90wEAcB2J57RCvpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/201408-xl-lemon-thyme-roast-chicken-d5684a3c900d4044b406659363990f40.jpg",
         "ingredients": [
           "1 whole chicken",
           "2 lemons",
           "4 sprigs of thyme",
-          "4 cloves of garlic",
           "salt and pepper",
           "olive oil"
         ],
@@ -371,27 +277,20 @@
         "rating": 4.5
       },
       {
-        "id": 2,
         "recipe name": "Spaghetti Bolognese",
         "image url": "https://media.istockphoto.com/id/585769692/photo/delicious-spaghetti-served-on-a-black-plate.jpg?s=612x612&w=0&k=20&c=e3amYy8LTlFwJj_DpSHyRtQmvyeaH2WNMlzD7fg-jmM=",
         "ingredients": [
           "400g spaghetti",
           "500g beef mince",
-          "1 onion",
           "2 cloves garlic",
           "400g can chopped tomatoes",
           "2 tbsp tomato paste",
-          "1 tsp dried oregano",
-          "1 tsp dried basil",
-          "1 bay leaf",
-          "salt and pepper",
-          "grated parmesan cheese"
+          "1 tsp dried oregano"
         ],
         "cooking method": "Cook spaghetti in a large pot of salted boiling water until al dente. Meanwhile, heat oil in a large frying pan over medium-high heat. Add onion and garlic and cook until softened. Add beef mince and cook until browned. Add chopped tomatoes, tomato paste, oregano, basil, bay leaf, salt, and pepper. Simmer for 15-20 minutes, stirring occasionally. Drain spaghetti and add to the pan with the sauce. Toss to combine. Serve with grated parmesan cheese.",
         "rating": 4.8
       },
       {
-        "id": 3,
         "recipe name": "Thai Green Curry",
         "image url": "https://www.thespruceeats.com/thmb/lRkFd-tG5HDOJQtwQHXM__6GjDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thai-green-curry-recipe-p3-3217442-hero-1-a3fcdfbc551849718c7750fa63ec8c6a.jpg",
         "ingredients": [
@@ -399,12 +298,6 @@
           "1 can coconut milk",
           "1 tbsp green curry paste",
           "1 red pepper",
-          "1 green pepper",
-          "1 onion",
-          "1 tbsp fish sauce",
-          "1 tbsp brown sugar",
-          "1 tbsp vegetable oil",
-          "salt and pepper",
           "basmati rice"
         ],
         "cooking method": "Cook basmati rice according to package instructions. Meanwhile, heat oil in a large frying pan or wok over medium-high heat. Add chicken and cook until browned. Add green curry paste and stir until fragrant. Add coconut milk, fish sauce, and brown sugar. Bring to a simmer and add sliced red and green peppers and onion. Cook for 10-15 minutes or until the vegetables are tender and the sauce has thickened. Season with salt and pepper. Serve with basmati rice.",
