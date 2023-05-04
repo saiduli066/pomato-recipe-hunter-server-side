@@ -22,6 +22,20 @@
       },
       {
         "recipe_name": "Spaghetti Bolognese",
+        "image_url": "https://media.istockphoto.com/id/585769692/photo/delicious-spaghetti-served-on-a-black-plate.jpg?s=612x612&w=0&k=20&c=e3amYy8LTlFwJj_DpSHyRtQmvyeaH2WNMlzD7fg-jmM=",
+        "ingredients": [
+          "400g spaghetti",
+          "500g beef mince",
+          "1 tsp dried basil",
+          "1 bay leaf",
+          "salt and pepper",
+          "grated parmesan cheese"
+        ],
+        "cooking_method": "Cook spaghetti in a large pot of salted boiling water until al dente. Meanwhile, heat oil in a large frying pan over medium-high heat. Add onion and garlic and cook until softened. Add beef mince and cook until browned. Add chopped tomatoes, tomato paste, oregano, basil, bay leaf, salt, and pepper. Simmer for 15-20 minutes, stirring occasionally. Drain spaghetti and add to the pan with the sauce. Toss to combine. Serve with grated parmesan cheese.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
         "image_url": "https://bit.ly/3e5Kt0v",
         "ingredients": [
           "400g spaghetti",
@@ -48,11 +62,11 @@
         "rating": 4.6
       }
     ],
-    "experience": 25
+    "experience": 15
   },
   {
     "id": 2,
-    "chef_picture": "https://static2.stuff.co.nz/1375766531/851/9008851.jpg",
+    "chef_picture": "https://i.dailymail.co.uk/1s/2021/10/11/03/49006853-0-image-a-7_1633917841604.jpg",
     "chef_name": "Maggie Beer",
     "bio": "Maggie Beer is an Australian cook, food author, restaurateur and food manufacturer. She is known for her farm-to-table philosophy and her advocacy for Australian produce. She has written several cookbooks and hosted cooking shows, such as The Cook and the Chef and The Great Australian Bake Off.",
     "likes": 2789,
@@ -86,6 +100,20 @@
         "rating": 4.8
       },
       {
+        "recipe_name": "Spaghetti Bolognese",
+        "image_url": "https://media.istockphoto.com/id/585769692/photo/delicious-spaghetti-served-on-a-black-plate.jpg?s=612x612&w=0&k=20&c=e3amYy8LTlFwJj_DpSHyRtQmvyeaH2WNMlzD7fg-jmM=",
+        "ingredients": [
+          "400g spaghetti",
+          "500g beef mince",
+          "1 tsp dried basil",
+          "1 bay leaf",
+          "salt and pepper",
+          "grated parmesan cheese"
+        ],
+        "cooking_method": "Cook spaghetti in a large pot of salted boiling water until al dente. Meanwhile, heat oil in a large frying pan over medium-high heat. Add onion and garlic and cook until softened. Add beef mince and cook until browned. Add chopped tomatoes, tomato paste, oregano, basil, bay leaf, salt, and pepper. Simmer for 15-20 minutes, stirring occasionally. Drain spaghetti and add to the pan with the sauce. Toss to combine. Serve with grated parmesan cheese.",
+        "rating": 4.8
+      },
+      {
         "recipe_name": "Beef Stroganoff",
         "image_url": "https://img.taste.com.au/zCeAeByH/w1200-h630-cfill/taste/2016/11/beef-stroganoff-45838-1.jpeg",
         "ingredients": [
@@ -100,7 +128,7 @@
         "rating": 4.6
       }
     ],
-    "experience": 30
+    "experience": 40
   },
   {
     "id": 3,
@@ -153,7 +181,7 @@
         "rating": 4.6
       }
     ],
-    "experience": 30
+    "experience": 10
   },
   {
     "id": 4,
@@ -205,7 +233,7 @@
         "rating": 4.6
       }
     ],
-    "experience": 22
+    "experience": 12
   },
   {
     "id": 5,
@@ -226,6 +254,20 @@
         ],
         "cooking_method": "Cook egg noodles in a large pot of salted boiling water until al dente. Meanwhile, slice beef sirloin into thin strips. Heat oil in a large frying pan or wok over medium-high heat. Add beef and cook until browned. Remove beef from the pan and set aside. Add onion and garlic to the pan and cook until softened. Add sliced mushrooms and cook until tender. Add beef stock, sour cream, and dijon mustard. Stir to combine and bring to a simmer. Add the beef back to the pan and cook until heated through. Season with salt and pepper. Serve with egg noodles.",
         "rating": 4.3
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "image_url": "https://media.istockphoto.com/id/585769692/photo/delicious-spaghetti-served-on-a-black-plate.jpg?s=612x612&w=0&k=20&c=e3amYy8LTlFwJj_DpSHyRtQmvyeaH2WNMlzD7fg-jmM=",
+        "ingredients": [
+          "400g spaghetti",
+          "500g beef mince",
+          "1 tsp dried basil",
+          "1 bay leaf",
+          "salt and pepper",
+          "grated parmesan cheese"
+        ],
+        "cooking_method": "Cook spaghetti in a large pot of salted boiling water until al dente. Meanwhile, heat oil in a large frying pan over medium-high heat. Add onion and garlic and cook until softened. Add beef mince and cook until browned. Add chopped tomatoes, tomato paste, oregano, basil, bay leaf, salt, and pepper. Simmer for 15-20 minutes, stirring occasionally. Drain spaghetti and add to the pan with the sauce. Toss to combine. Serve with grated parmesan cheese.",
+        "rating": 4.8
       },
       {
         "recipe_name": "Spicy Shrimp Tacos",
